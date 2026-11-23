@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Build / generated test artifacts
+dist/
+build/
+*.egg-info/
+tests/fixtures/*.py
